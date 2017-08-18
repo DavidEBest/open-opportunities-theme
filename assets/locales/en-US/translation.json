@@ -30,19 +30,19 @@
   },
 
   "loginModal" : {
-    "tosCheckbox": "I am a federal employee and agree to the ",
-    "emailAddress": "Official Government Email Address"
+    "tosCheckbox": "I agree to the ",
+    "emailAddress": "Email Address"
   },
 
   "volunteerModal": {
-    "notifySupervisor": "You’ve cleared your participation with your managers and your agency expects no reimbursement or formal agreement.",
+    "notifySupervisor": "Notify Supervisor.",
     "cantCancel": "You’ll complete your task as agreed from the outset to the best of your ability and make adjustments if you get feedback."
   },
 
   "home" : {
-    "headline" : "Open Opportunities",
-    "subhead" : "Discover opportunities across government that will help you build skills and make connections.",
-    "tagline" : "Building a 21st century government, together",
+    "headline" : "Open Opportunities: Dayton",
+    "subhead" : "Discover opportunities that will help you build skills and make connections.",
+    "tagline" : "Building a better Dayton, together",
     "callToAction" : "Browse Opportunities"
   },
 
